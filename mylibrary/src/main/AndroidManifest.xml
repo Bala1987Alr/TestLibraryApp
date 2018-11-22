@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.bala.mylibrary">
+
+    <application>
+        <activity android:name=".mylibrary.LoginScreen" />
+        <activity android:name=".mylibrary.RegistrationScreen" />
+        <activity android:name=".mylibrary.HomeScreen" />
+    </application>
+
+</manifest>
